@@ -13,4 +13,4 @@ A lightweight, mobile-friendly grocery list web app built with HTML, CSS, and Ja
 HTML | CSS | Vanilla JavaScript
 
 ## Live Demo
-[View App](https://ronisonmarketlist.netlify.app)
+https://ronisonmarketlist.netlify.app
